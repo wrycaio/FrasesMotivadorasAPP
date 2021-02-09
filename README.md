@@ -1,6 +1,6 @@
-# frasesmotivadoras
+# Frases Motivadoras
 
-A new Flutter project.
+My first project developed with Dart and Flutter.
 
 ## Getting Started
 
